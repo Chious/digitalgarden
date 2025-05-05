@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/web-performance/"}
+{"dg-publish":true,"permalink":"/web-performance/","tags":["web-vitals","frontend"]}
 ---
 
 
